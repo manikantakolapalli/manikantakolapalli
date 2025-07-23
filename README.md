@@ -50,13 +50,14 @@ Built using Node.js, SQLite, JWT, and REST APIs – includes user login, post cr
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikanta-kolapalli&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=manikanta-kolapalli&theme=github-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manikanta-kolapalli&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=manikanta-kolapalli&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-kolapalli&layout=compact&theme=github_dark" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-kolapalli&layout=compact&theme=tokyonight" width="50%" />
 </p>
+
 
 ## 📫 Let's Connect
 
