@@ -49,13 +49,14 @@ Built using Node.js, SQLite, JWT, and REST APIs – includes user login, post cr
 
 ## 📈 GitHub Stats
 
-![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikanta-kolapalli&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikantakolapalli&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=manikantakolapalli&theme=tokyonight" width="48%" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta-kolapalli&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=manikanta-kolapalli&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=manikanta-kolapalli&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantakolapalli&layout=compact&theme=tokyonight" width="50%" />
+</p>
 
 
 
